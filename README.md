@@ -41,7 +41,7 @@ things and collaborate with others.
 
 **[![Static Badge](https://img.shields.io/badge/Portfolio-ronank7z-green?style=for-the-badge&logo=Codeium&logoColor=%23FFFFFF&labelColor=%2309B6A2&color=%23F5F5F5&link=https%3A%2F%2Fbento.me%2Fronank7z)](https://bento.me/ronank7z)**<br />
 **[![Static Badge](https://img.shields.io/badge/LinkedIn-%40ronan--kitten-green?style=for-the-badge&logo=LinkedIn&logoColor=%23FFFFFF&labelColor=%230077B5&color=%23F5F5F5&link=https%3A%2F%2Flinkedin.com%2Fin%2Fronan-kitten)](https://linkedin.com/in/ronan-kitten)**<br />
-**[![Static Badge](https://img.shields.io/badge/Twitter-ronank7z-black?style=for-the-badge&logo=X&logoColor=%23FFFFFF&labelColor=%23000000&color=%23F5F5F5&link=https%3A%2F%2Fx.com%2Fronank7z)](https://x.com/ronank7z)**<br />
+**[![Static Badge](https://img.shields.io/badge/Twitter-__ronankz-black?style=for-the-badge&logo=X&logoColor=%23FFFFFF&labelColor=%23000000&color=%23F5F5F5&link=https%3A%2F%2Fx.com%2F_ronankz)](https://x.com/_ronankz)**<br />
 **[![Static Badge](https://img.shields.io/badge/Gmail-ronank.dev%40gmail.com-black?style=for-the-badge&logo=gmail&logoColor=%23FFFFFF&labelColor=%23EA4335&color=%23F5F5F5&link=mailto%3Aronank.dev%40gmail.com)](mailto:ronank.dev@gmail.com)**<br />
 
 ## GitHub Stats
